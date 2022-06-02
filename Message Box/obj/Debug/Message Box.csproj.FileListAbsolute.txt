@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Message Box\Message Box\bin\Debug\Message Box.exe.config
+C:\Users\dell\source\repos\Message Box\Message Box\bin\Debug\Message Box.exe
+C:\Users\dell\source\repos\Message Box\Message Box\bin\Debug\Message Box.pdb
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message Box.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message_Box.Properties.Resources.resources
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message Box.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message Box.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message Box.exe
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message Box.pdb
+C:\Users\dell\source\repos\Message Box\Message Box\obj\Debug\Message_Box.Acitvity.resources
